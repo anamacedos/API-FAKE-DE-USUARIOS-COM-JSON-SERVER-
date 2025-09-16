@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": "01",
+      "nome": "ana julia",
+      "cpf": "12345678",
+      "naturalidade": "São Paulo - SP",
+      "nascimento": "03/06/2008",
+      "nome da mãe": "Sueli",
+      "email": "anajulia@email.com",
+      "cep": "12345-678",
+      "telefone": "1191083-9598",
+      "senha": "12345678"
+    },
+    {
+      "nome": "Júlia Macedo",
+      "cpf": "12345",
+      "naturalidade": "São Paulo - SP",
+      "nascimento": "03/06/2008",
+      "nome da mãe": "Sueli",
+      "email": "anajulia@email.com",
+      "cep": "12345-678",
+      "telefone": "1191083-9598",
+      "senha": "12345",
+      "id": "aNuGz8x"
+    }
+  ]
+}
