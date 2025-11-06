@@ -3,6 +3,6 @@
     "start": "json-server --watch db.json --port 5000"
   },
   "devDependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.4"
   }
 }

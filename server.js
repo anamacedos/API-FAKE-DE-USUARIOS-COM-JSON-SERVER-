@@ -11,8 +11,11 @@ server.use(jsonServer.bodyParser); // Para ler req.body
 server.post('/login', (req, res) => {
   const { cpf, senha } = req.body;
 
+
+  console.log(req.body);
   if (!cpf || !senha) {
     return res.status(400).json({ error: 'CPF e senha são obrigatórios' });
+
   }
 
   const db = router.db; // Acessa o banco
