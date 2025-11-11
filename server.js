@@ -12,10 +12,10 @@ server.post('/login', (req, res) => {
   const { cpf, senha } = req.body;
 
 
-<<<<<<< HEAD
+// HEAD
   console.log(req.body);
-=======
->>>>>>> b4d5ac698a921c1fc26c7917bf7b92d50b50dc24
+//=======
+
   if (!cpf || !senha) {
     return res.status(400).json({ error: 'CPF e senha são obrigatórios' });
 
@@ -40,7 +40,7 @@ server.post('/login', (req, res) => {
 
 server.use(router);
 
-// mudabdo a porta
+// mudando a porta
 const PORT = 4000;
 server.listen(PORT, () => {
   console.log(`JSON Server rodando na porta ${PORT}`);
