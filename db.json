@@ -37,7 +37,33 @@
       "email": "maricosta@gmail.com",
       "cep": "06268-200",
       "telefone": "114859-9779",
-      "senha": "mani@123"
+      "senha": "mari@123"
+    },
+    {
+      "id": "04",
+      "nome": "Cristian Ferraz da Costa",
+      "cpf": "48629889665",
+      "foto_perfil": "https://cajamar.sp.gov.br/noticias/wp-content/uploads/sites/2/2021/08/site-vacinacao-26-anos.png",
+      "naturalidade": "São Paulo - SP",
+      "nascimento": "17/11/1994",
+      "nome da mãe": "Ivana Santos Ferraz",
+      "email": "criscosta@gmail.com",
+      "cep": "05859-010",
+      "telefone": "119228-9897",
+      "senha": "cris@123"
+    },
+    {
+      "id": "05",
+      "nome": "Antônio Borges da Silva",
+      "cpf": "27564229775",
+      "foto_perfil": "https://img.freepik.com/fotos-premium/retrato-de-um-homem-com-chapeu_1048944-29976365.jpg",
+      "naturalidade": "Ourinhos - SP",
+      "nascimento": "05/02/1965",
+      "nome da mãe": "Maria de Fátima da Silva",
+      "email": "antonio.borges@gmail.com",
+      "cep": "05869-250",
+      "telefone": "1192865-9243",
+      "senha": "tonio@123"
     }
   ]
 }
